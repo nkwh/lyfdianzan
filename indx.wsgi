@@ -17,14 +17,14 @@ APPKEY = '82966982'
 UID:女神微博数字ID
 ACCESS_TOKEN：授权码。
 '''
-UID = '1649913047'
-ACCESS_TOKEN = '2.00tlp***********'
+UID = '1962256853'
+ACCESS_TOKEN = '2.00lj_XAE0IVHcF6a320f1e3eOIx1d'
 
 urls=('/','Index','/like','Likefordear')
 
-class Index:
-    def GET(self):
-        web.redirect('http://miantiao.me')
+#class Index:
+#    def GET(self):
+#        web.redirect('http://miantiao.me')
         
 class Likefordear:
     def GET(self):
